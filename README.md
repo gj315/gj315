@@ -81,4 +81,4 @@
 
 <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gj315&layout=&theme=cobalt&hide_border=true" /> 
 
-![Profile views](https://gpvc.arturio.dev/happy315)
+![Profile views](https://gpvc.arturio.dev/gj315)
