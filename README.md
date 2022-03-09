@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am a senior javascript developer
+#### I am a senior full stack developer
 
 ![Javascript developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
